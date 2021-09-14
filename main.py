@@ -1,13 +1,11 @@
-print("Hello World!")
-print("AHHHHHHHHHHHHH")
-print("god has let me live another day and I'm about to make it EVERYONES problem")
- 
-#print first movie 
-print("Knives out")
+#define function
+def topFiveMovies(): 
+    #print first movie
+    print("Knives Out")
 
-#print 2nd movie 
-print("Rashamon")
+    #print second  movie
+    print("Rashamon")
 
-#print 3rd favorite movie
-print("King of Comedy")
-print("please work I will cry")
+    #print third movie
+    print("King of Comedy")   
+topFiveMovies()
