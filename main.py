@@ -64,3 +64,11 @@ def topfiveKBNGmoment():
     print("...")
 topfiveKBNGmoment()
 
+#print integer
+print("2343428935287035")
+
+def myNameIs(Emotionalsupportstring):
+    print(Emotionalsupportstring + " is my name")
+
+myNameIs("Mya")
+myNameIs("Libby Leonard")
